@@ -1,3 +1,5 @@
+## Dataset:
+[maildata](https://github.com/monikac24/OIB-SIP-Datasci-Spam_prediction/blob/main/mail_data.csv)
 ## Objective:
 The objective of this project is to develop a machine learning model that can accurately classify emails as spam (0) or ham (1). This is achieved by using a logistic regression model trained on a labeled dataset of emails.
 
